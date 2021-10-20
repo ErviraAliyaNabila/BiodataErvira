@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BiodataErvira</string>
+    <string name="phone">phone</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">email</string>
+    <string name="tbl_alamat">alamat</string>
+    <string name="hallo_semuanya">Hallo Semuanya!</string>
+    <string name="todo">TODO</string>
+    <string name="nama_ervira_aliya_nabila">Nama : Ervira Aliya Nabila</string>
+    <string name="nim_a11_2020_12661">NIM : A11.2020.12661</string>
+    <string name="hobby_menyanyi_dan_menari">Hobby : Menyanyi dan Menari</string>
+    <string name="saya_mahasiswa_universitas_dian_nuswantoro_tahun_2020_progdi_teknik_informatika">Saya Mahasiswa Universitas Dian Nuswantoro Tahun 2020 Progdi Teknik Informatika</string>
+</resources>
